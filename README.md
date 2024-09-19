@@ -15,13 +15,13 @@ Hello, I'm Andrés! 👋
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=css,html" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,c++,java" />
+    <img src="https://skillicons.dev/icons?i=py,c,java" />
   </a>
 </p>
 <p align="center">
