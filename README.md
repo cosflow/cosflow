@@ -1,14 +1,15 @@
 ### About Me
 
-Hello, I'm Luis! 👋
+Hello, I'm Andrés! 👋
  
-📚 **Education:** Currently pursuing a degree in Computer Science at the Universidad de Salamanca while studying BBAA in the same institution.
+📚 **Education:** Currently pursuing a Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
 <br>
-💼 **Interests:** I am particularly interested in web technologies and DevOps. 
+💼 **Interests:** I am quite invested in Data Science, Machine Learning, Videogame Development, Graphic programming and DevOps. 
 <br>
-🛠 **Skills:** Currently honing my skills in Flutter, React, FastApi, and other full-stack technologies. I am also really into Nagios Core.
+🛠 **Skills:** Currently honing my skills in OpenGL, Vulkan and other technologies.
 <br>
-🤝 **Collaboration:** I am always ready to engage in meaningful and innovative projects.  
+🤝 **Collaboration:** I am always ready to engage in meaningful and innovative projects, while also brainstorming and explorating new ideas.
+<br>
 
 ## Technologies 💻
 <p align="center">
