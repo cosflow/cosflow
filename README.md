@@ -18,7 +18,7 @@ Embedded Software, Robotics, Drones, Low-Level Programming and Firmware.
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,qt,js" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,qt,js,cs" />
   </a>
 </p>
 <p align="center">
@@ -30,7 +30,7 @@ Embedded Software, Robotics, Drones, Low-Level Programming and Firmware.
 <p align="center">
   <h6>Tools I use</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emacs,git,figma,docker,md,matlab" />
+    <img src="https://skillicons.dev/icons?i=emacs,git,matlab,figma,docker,md" />
   </a>
 </p>
 <p align="center">
