@@ -2,7 +2,7 @@
  
 **Education:** Last Course of the Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
 <br>
-**Interests:** Embedded Software, Robotics, Drones and Low-Level Programming. 
+**Interests:** Embedded Software, Robotics, Drones and Low-Level Programming. Curious abot Firmware.
 <br>
 **Skills:** Fast learning, adaptability to new working environments, efficient communication and a great eagerness to learn about what I like. 
 <br>
@@ -17,7 +17,7 @@
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,qt" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,qt" />
   </a>
 </p>
 <p align="center">
@@ -35,6 +35,6 @@
 <p align="center">
   <h6>Other</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,bash,cs,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi" />
   </a>
 </p>
