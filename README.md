@@ -30,7 +30,7 @@ Embedded Software, Robotics, Drones, Low-Level Programming and Firmware.
 <p align="center">
   <h6>Tools I use</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emacs,git,discord,figma,docker,md,matlab" />
+    <img src="https://skillicons.dev/icons?i=emacs,git,figma,docker,md,matlab" />
   </a>
 </p>
 <p align="center">
