@@ -1,5 +1,3 @@
-#### Andrés
-
 ### About Me
  
 **Education:** Last Course of the Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
