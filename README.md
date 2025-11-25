@@ -1,10 +1,12 @@
+#### Andrés
+
 ### About Me
  
 **Education:** Last Course of the Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
 <br>
 **Interests:** Embedded Software, Robotics, Drones and Low-Level Programming. 
 <br>
-**Skills:** Currently honing my skills in OpenGL, Vulkan and other technologies.
+**Skills:** Fast learning, adaptability to new working environments, efficient communication and a great eagerness to learn about what I like. 
 <br>
 
 ## Technologies
@@ -38,13 +40,3 @@
     <img src="https://skillicons.dev/icons?i=linux,arch,bash,cs,raspberrypi" />
   </a>
 </p>
-
-<hr>
-<detail>
-  <summary>Github Statistics</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cosflow&show_icons=true&theme=dark">
-  </p>
-</detail>
-
-<hr>
