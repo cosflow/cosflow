@@ -1,27 +1,23 @@
 ### About Me
-
-Hello, I'm Andrés! 👋
  
-📚 **Education:** Currently pursuing a Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
+**Education:** Last Course of the Doble Major in Computer Science and Business Administration at the Universidad de Salamanca.
 <br>
-💼 **Interests:** I am quite invested in Data Science, Machine Learning, Videogame Development, Graphic programming and DevOps. 
+**Interests:** Embedded Software, Robotics, Drones and Low-Level Programming. 
 <br>
-🛠 **Skills:** Currently honing my skills in OpenGL, Vulkan and other technologies.
-<br>
-🤝 **Collaboration:** I am always ready to engage in meaningful and innovative projects, while also brainstorming and explorating new ideas.
+**Skills:** Currently honing my skills in OpenGL, Vulkan and other technologies.
 <br>
 
-## Technologies 💻
+## Technologies
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html" />
+    <img src="https://skillicons.dev/icons?i=js,css,html" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,qt" />
   </a>
 </p>
 <p align="center">
@@ -31,15 +27,15 @@ Hello, I'm Andrés! 👋
   </a>
 </p>
 <p align="center">
-  <h6>Tools</h6>
+  <h6>Tools I use</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma,flutter,docker,postman,githubactions" />
+    <img src="https://skillicons.dev/icons?i=emacs,git,discord,jest,figma,docker,md,matlab" />
   </a>
 </p>
 <p align="center">
   <h6>Other</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cs" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,bash,cs,raspberrypi" />
   </a>
 </p>
 
