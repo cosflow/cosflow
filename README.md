@@ -1,14 +1,11 @@
 ### About Me
  
-**Education** Last course of Computer Science and Business Administration at the USAL.
+**Education:** Last course of Computer Science and Business Administration at the USAL.
 <br>
-**Current Interests and Career Perspective** 
- <br> · Embedded Software. 
- <br> · Robotics.
- <br> · Drones.
- <br> · Low-Level Programming and Firmware.
+**Current Interests:** 
+Embedded Software, Robotics, Drones, Low-Level Programming and Firmware.
 <br>
-**Skills** Fast learning, adaptability to new working environments, efficient communication and a great eagerness to learn about what I like. 
+**Skills:** Fast learning, adaptability to new working environments, efficient communication and a great eagerness to learn about what I like. 
 <br>
 
 ## Technologies
